@@ -1,9 +1,10 @@
-Proctor Creek Water Quality Analysis with the West Atlanta Water Alliance
+# Proctor Creek Water Quality Analysis 
+## with the West Atlanta Water Alliance
 Taylor Howell, Quinn Knapper, John Pederson, Brantley Proffitt, and Sean Warren
 Profs. Andrew Medford and Eva Dyer
 COE 3803: Data Analytics for Engineers
-December 3rd, 2019
 
+![Poster](https://github.com/seankwarren/Water-Quality-Analysis/blob/master/Poster.jpg?raw=true)
 -----
 
 Contents:
