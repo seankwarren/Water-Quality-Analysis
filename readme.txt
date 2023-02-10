@@ -4,7 +4,7 @@ Taylor Howell, Quinn Knapper, John Pederson, Brantley Proffitt, and Sean Warren
 Profs. Andrew Medford and Eva Dyer
 COE 3803: Data Analytics for Engineers
 
-![poster](Poster.jpg?raw=true)
+![poster](Poster.jpg)
 
 -----
 
