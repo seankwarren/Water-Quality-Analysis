@@ -5,6 +5,7 @@ Profs. Andrew Medford and Eva Dyer
 COE 3803: Data Analytics for Engineers
 
 ![poster](https://github.com/seankwarren/Water-Quality-Analysis/blob/master/Poster.jpg?raw=true)
+
 -----
 
 Contents:
